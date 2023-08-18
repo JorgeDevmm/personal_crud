@@ -1,0 +1,6 @@
+<?
+
+echo ("Iniciando estructura");
+
+
+?>
